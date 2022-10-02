@@ -17,9 +17,9 @@
 </div> 
 
 ### Estudando no momento:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
-![Postgresql](https://img.shields.io/badge/-Postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 
 <div align="center">
