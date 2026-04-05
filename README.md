@@ -1,8 +1,8 @@
 <h1 align="center">Renam Gustavo Bulhoes</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer & Tech Lead</strong><br/>
-  Enthusiast of distributed systems, new technologies and clean architecture
+  <strong>Engenheiro de Software Sênior & Tech Lead</strong><br/>
+  Entusiasta de sistemas distribuídos, novas tecnologias e arquitetura limpa
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white"/>
 </p>
 
 ---
@@ -30,6 +30,6 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renamrgb&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renamrgb&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=renamrgb&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renamrgb&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
