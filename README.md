@@ -30,6 +30,5 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renamrgb&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renamrgb&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com?user=renamrgb&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </p>
