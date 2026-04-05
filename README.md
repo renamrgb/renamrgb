@@ -1,9 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:ED8B00&height=200&section=header&text=Renam%20Gustavo%20Bulhoes&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%26%20Tech%20Lead&descAlignY=55&descSize=16"/>
+<h1 align="center">Renam Gustavo Bulhoes</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Entusiasta+de+sistemas+distribu%C3%ADdos;Apaixonado+por+novas+tecnologias;Clean+Architecture+%26+DDD;Java+%7C+Go+%7C+Kubernetes+%7C+AWS" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Entusiasta+de+sistemas+distribu%C3%ADdos;Apaixonado+por+novas+tecnologias;Clean+Architecture+%26+DDD;Java+%7C+Go+%7C+Kubernetes+%7C+AWS" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,7 +31,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=renamrgb&theme=tokyonight&hide_border=true&locale=pt_BR"/>
 </p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:00ADD8&height=120&section=footer"/>
