@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:ED8B00&height=200&section=header&text=Renam%20Gustavo%20Bulhoes&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%26%20Tech%20Lead&descAlignY=55&descSize=16)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:ED8B00&height=200&section=header&text=Renam%20Gustavo%20Bulhoes&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%26%20Tech%20Lead&descAlignY=55&descSize=16"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -36,4 +36,4 @@
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:00ADD8&height=120&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:00ADD8&height=120&section=footer"/>
